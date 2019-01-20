@@ -1,3 +1,3 @@
 <# just a place holder#>
 
-import sqlps
+#import sqlps
